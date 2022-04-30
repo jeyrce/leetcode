@@ -13,3 +13,10 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+*.DS_Store
+.idea/
+*.log
+*.xml
+*.swap
+*.swp
+*.tmp
