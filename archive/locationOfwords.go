@@ -1,6 +1,6 @@
 package archive
 
-// 最短单词
+// 两单词在列表中的最短距离
 func findClosest(words []string, word1 string, word2 string) int {
 	var (
 		minLength int
